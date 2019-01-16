@@ -1,0 +1,13 @@
+certifi==2018.11.29
+chardet==3.0.4
+Django==2.1.5
+django-downloadview==1.9
+idna==2.8
+Pillow==2.9.0
+psycopg2==2.7.6.1
+python-decouple==3.1
+pytz==2018.9
+requests==2.21.0
+six==1.12.0
+sorl-thumbnail==12.5.0
+urllib3==1.24.1
