@@ -15,4 +15,4 @@
  - /sizer/photos/ POST Добавить фотографию
  - /sizer/photos/<photo_id>/ GET получить url на фотографию (два параметра width height)
  - /sizer/photos/<photo_id>/download/ GET скачать файл (два параметра width height)
- - /sizer/photos/<photo_id>/download/ GET скачать zip файл 9 штук (два параметра width height)
+ - /sizer/photos/<photo_id>/zip/ GET скачать zip файл 9 штук (два параметра width height)
